@@ -14,4 +14,8 @@
 3. upload.php
 4. upfetch.sql
 
+# Image:
+
+![Upload   Fetch Data](https://user-images.githubusercontent.com/88210622/128753773-adb4ea99-ec79-4371-ad04-1873ad063978.png)
+
 
