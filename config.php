@@ -11,4 +11,4 @@ if (!$conn) {
     die("<script>alert('Connection Failed.')</script>");
 }
 
-$base_url = "https://attachment.kheloalchemists.tk/"; // Website url
+$base_url = "http://localhost/up-fetch"; // Website url
