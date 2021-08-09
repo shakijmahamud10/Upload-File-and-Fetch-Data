@@ -90,7 +90,7 @@ body {
     padding: .7rem 2rem;
     font-size: 1.3rem;
     color: #FFF;
-    border-radius: 3px;
+    border-radius: 0 15px;
     opacity: .9;
     cursor: pointer;
     transition: .3s;
